@@ -35,7 +35,8 @@
     "next-env": "^1.1.0",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "store-js": "^2.0.4"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.4.3",
